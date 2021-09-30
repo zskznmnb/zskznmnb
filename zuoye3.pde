@@ -3,7 +3,7 @@
 void setup(){
   size(400,400);
   background(255);
- frameRate(10);
+ frameRate(5);
 }
 
 void draw(){
